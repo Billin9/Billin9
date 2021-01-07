@@ -1,6 +1,6 @@
 ### Hi, Look Here👋 Welcome to my Github page !✨
 
-![](https://github-readme-stats.vercel.app/api?username=Billin9&show_icons=true&theme=merko)
+![](https://github-readme-stats.vercel.app/api?username=Billin9&show_icons=true)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Billin9.Billin9)  
 
