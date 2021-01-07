@@ -1,8 +1,12 @@
 ### Hi, Look Here👋 Welcome to my Github page !✨
 
-![](https://github-readme-stats.vercel.app/api?username=Billin9&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Billin9&show_icons=true&hide=stars,issues)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Billin9.Billin9)  
+
+![build](https://github.com/Billin9/Billin9/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Billin9/Billin9)
+![pv](https://pageview.vercel.app/?github_user=Billin9)
+![](https://visitor-badge.glitch.me/badge?page_id=Billin9.Billin9)
 
 <!--
 **Billin9/Billin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
